@@ -1,0 +1,23 @@
+{
+  "name": "performance-management-graphql-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-graphql-server db.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whiteprompt/performance-management-graphql-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whiteprompt/performance-management-graphql-react/issues"
+  },
+  "homepage": "https://github.com/whiteprompt/performance-management-graphql-react#readme",
+  "devDependencies": {
+    "json-graphql-server": "2.2.3"
+  }
+}
